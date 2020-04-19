@@ -1,0 +1,15 @@
+.Deck {
+  background-color: lightblue;
+  height: 100%;
+  width: 100vh;
+}
+
+.Deck-text {
+  text-align: center;
+  align-content: center;
+  color: greenyellow;
+}
+
+.Deck-textarea {
+  margin-top: 80px;
+}

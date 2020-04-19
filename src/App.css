@@ -1,4 +1,8 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  color: #3a243b;
+  background-color: lightblue;
+  height: 100%;
+  width: 100vh;
 }
